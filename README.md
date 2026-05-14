@@ -1,4 +1,4 @@
-# Lab 8 - Alinhamento Humano com DPO
+# Lab 9 - Alinhamento Humano com DPO
 
 Pipeline completo de alinhamento de um LLM utilizando Direct Preference Optimization (DPO), substituindo o complexo pipeline de RLHF. O objetivo é garantir que o modelo seja Útil, Honesto e Inofensivo (HHH — Helpful, Honest, Harmless), # Lab 9 - Arquitetura RAG Avançada (HNSW, HyDE e Cross-Encoders)
 
